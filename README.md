@@ -1,2 +1,2 @@
 # CI_practice
-COntinuous Integration (CI) Practice
+Continuous Integration (CI) Practice
